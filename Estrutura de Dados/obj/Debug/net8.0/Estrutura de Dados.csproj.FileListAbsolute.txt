@@ -1,0 +1,15 @@
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.AssemblyInfoInputs.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.AssemblyInfo.cs
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.csproj.CoreCompileInputs.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.sourcelink.json
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\bin\Debug\net8.0\Estrutura de Dados.exe
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\bin\Debug\net8.0\Estrutura de Dados.deps.json
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\bin\Debug\net8.0\Estrutura de Dados.runtimeconfig.json
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\bin\Debug\net8.0\Estrutura de Dados.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\bin\Debug\net8.0\Estrutura de Dados.pdb
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\refint\Estrutura de Dados.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.pdb
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\Estrutura de Dados.genruntimeconfig.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estrutura de Dados\obj\Debug\net8.0\ref\Estrutura de Dados.dll

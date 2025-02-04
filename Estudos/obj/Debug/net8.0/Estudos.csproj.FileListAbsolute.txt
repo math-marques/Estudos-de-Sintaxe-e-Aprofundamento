@@ -1,0 +1,15 @@
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\bin\Debug\net8.0\Estudos.exe
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\bin\Debug\net8.0\Estudos.deps.json
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\bin\Debug\net8.0\Estudos.runtimeconfig.json
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\bin\Debug\net8.0\Estudos.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\bin\Debug\net8.0\Estudos.pdb
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.AssemblyInfoInputs.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.AssemblyInfo.cs
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.csproj.CoreCompileInputs.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\refint\Estudos.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.pdb
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.genruntimeconfig.cache
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\ref\Estudos.dll
+C:\Users\MatheusMarques\source\repos\Estudos\Estudos\obj\Debug\net8.0\Estudos.sourcelink.json
