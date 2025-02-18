@@ -110,3 +110,10 @@ static bool Procura (string item)
 {
     return item.Contains("n");
 }
+
+//Console.ReadKey();  
+//public class Aluno
+//{
+//    public string? Nome { get; set; }
+//    public double Nota { get; set; }
+//}
