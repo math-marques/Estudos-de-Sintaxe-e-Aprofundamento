@@ -117,3 +117,30 @@ static bool Procura (string item)
 //    public string? Nome { get; set; }
 //    public double Nota { get; set; }
 //}
+
+
+Console.WriteLine("Hello, World! Vamos estudar P.O.O.");
+
+//\\//\\//\\//\\ Pilares: Abstração, Encapsulamento, Herança e Polimorfismo //\\//\\//\\//\\
+
+/*   - Abstração: É a capacidade de abstrair um objeto do mundo real e transformá-lo em um objeto de software.
+     - Encapsulamento: É a capacidade de esconder os detalhes de implementação de um objeto e mostrar apenas o que é necessário.
+     - Herança: É a capacidade de criar uma nova classe a partir de uma classe já existente.
+     - Polimorfismo: É a capacidade de um objeto se comportar de várias formas.
+
+
+           Conceitos básicos que regem a P.O.O.=  
+        
+         - Classe: É um modelo que define um objeto.
+         - Objeto: É uma instância de uma classe.
+         - Atributo: É uma característica de um objeto.
+         - Método: É uma ação que um objeto pode realizar.
+         - Construtor: É um método especial que é chamado quando um objeto é criado.
+
+         - Sobrecarga: É a capacidade de criar vários métodos com o mesmo nome, mas com parâmetros diferentes.
+         - Sobreposição: É a capacidade de criar um método em uma classe derivada com o mesmo nome de um método na classe base.
+         - Ocultação: É a capacidade de ocultar um método de uma classe base em uma classe derivada.
+*/
+
+
+
