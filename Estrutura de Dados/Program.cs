@@ -142,5 +142,50 @@ Console.WriteLine("Hello, World! Vamos estudar P.O.O.");
          - Ocultação: É a capacidade de ocultar um método de uma classe base em uma classe derivada.
 */
 
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//var limiteCredito = new List<Limite>();
+//for (int i = 1; i < 16; i++)
+//{
+//    limiteCredito.Add(new Limite() { Numero = i });
+//}
+
+//var limitesComRestricao = limiteCredito.Where(x => x.AnalisaLimite()).ToList();
+
+//Console.ReadKey();
+//public class Limite
+//{
+//    public int Numero { get; set; }
+//    private bool isRestricao;
+
+//    public Limite()
+//    {
+//        var semente = Guid.NewGuid().GetHashCode();
+//        var numeroAleatorio = new Random(semente).Next(1, 4);
+//        isRestricao = numeroAleatorio == 1;
+//    }
+//    public bool AnalisaLimite() 
+//    {
+//        Console.WriteLine($"Executa análise de limite de crédito para o limite {Numero}");
+//        return isRestricao;
+//    }
+//}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// aprendi sobre a palavra "base" e "new"
+//Console.WriteLine("");
+//
+//Console.ReadKey();  
+//public class Pessoa
+//{
+//    public string? Nome { get; set; }
+//    public double Email { get; set; }
+//    public int Idade { get; set; }
+//    public int AnoNascimento { get; set; }
+//
+//}
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Console.WriteLine("Exercício sobre Herança");
+
+Console.ReadKey();
+
 
 
